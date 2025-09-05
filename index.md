@@ -11,8 +11,13 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 #### This is an H4 Header
 ##### This is an H5 Header
 ###### This is an H6 Header
+
 
 
